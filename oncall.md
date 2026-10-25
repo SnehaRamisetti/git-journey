@@ -1,1 +1,1 @@
-primary
+Primary oncall rotates every Monday
